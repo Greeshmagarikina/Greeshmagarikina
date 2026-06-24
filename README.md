@@ -22,6 +22,7 @@
 * Speech-to-Text & Text-to-Speech
 * LLM Application Development
 * AI Deployment & MLOps
+* System Design
 
 🌱 I enjoy combining Machine Learning, NLP, and Generative AI to create practical solutions for real-world problems.
 
