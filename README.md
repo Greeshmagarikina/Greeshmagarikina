@@ -29,7 +29,7 @@
 
 ## 🚀 What I'm Working On
 
-🔹 AI Resume Screening Assistant
+🔹 AI Recruiter Copilot
 
 🔹 College Knowledge Q&A Chatbot
 
@@ -67,13 +67,13 @@ Git • GitHub • Linux • VS Code
 
 ## 🌟 Featured Projects
 
-📌 AI Resume Screening Assistant
+📌 AI Recruiter Copilot
 
 📌 College Rules Q&A Chatbot
 
 📌 Voice-Based AI Assistant
 
-📌 IPL Score Prediction System
+📌 Campus Enterprise RAG
 
 ---
 
