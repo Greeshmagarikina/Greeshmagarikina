@@ -16,13 +16,14 @@
 
 ⚙️ Currently exploring:
 
-* Retrieval-Augmented Generation (RAG)
+* Retrieval-Augmented Generation (RAG) and Distributed systems
 * Agentic AI Systems
-* Prompt Engineering
+* Site Reliability Engineering and Chaos Engineering
 * Speech-to-Text & Text-to-Speech
-* LLM Application Development
+* LLM Application Development and Prompt Engineering
 * AI Deployment & MLOps
 * System Design
+* Cloud computing and Automation
 
 🌱 I enjoy combining Machine Learning, NLP, and Generative AI to create practical solutions for real-world problems.
 
@@ -39,6 +40,10 @@
 🔹 LangChain & RAG Applications
 
 🔹 Custom NLP Projects
+
+🔹Campus Enterprise RAG bot with SRE
+
+
 
 ---
 
